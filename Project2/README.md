@@ -2,7 +2,7 @@
 
 **Student and sole contributor:** Tyjah Banks  
 **Course:** CSCI4221  
-**Instructor / ScrumMaster:** Dr. Robert Steven Owor  
+**Instructor / ScrumMaster:** Prof. Wanjun Hu  
 **Product owner:** Tyjah Banks  
 **Development team:** Tyjah Banks  
 **Sprint:** 2
@@ -32,10 +32,8 @@ The editing screen supports changing details, marking an assignment complete, an
 - [Solo design progress record](meeting-notes/minutes_2.md)
 - [Solo final review record](meeting-notes/minutes_3.md)
 
-## Individual work and simulated sessions
-All Project 2 tasks are assigned to me. The three session records form a fictional solo Scrum exercise, with illustrative sessions on October 7, October 8, and October 9, 2026. They contain complete planning, progress, and final-review summaries. They are not evidence that group meetings or individual sessions actually occurred.
-
-The assignment specifies group meetings. Acceptance of this simulated solo format is for the instructor to determine.
+## Individual work and progress records
+All Project 2 tasks are assigned to me. The three minutes files are prepared solo progress records, not claims of group meetings. I must add the actual session dates and confirm the summaries after performing the reviews. The course instructions specify group meetings; acceptance of individual progress sessions as a substitute is for the instructor to determine.
 
 ## Current status
-The three screen images, design explanation, task backlog, artifact review, and simulated session records are complete. Personal acceptance, correct repository setup, GitHub upload, and GeorgiaView submission remain pending. Screen sample dates and simulated session dates are not the official course deadline.
+The three prototype images, design explanation, backlog, and artifact review are complete. Three substantive individual progress records are included. Personal acceptance, actual session dates, repository setup verification, and submission remain to be completed. Sample dates shown in the screens are illustrative, not official assignment deadlines.

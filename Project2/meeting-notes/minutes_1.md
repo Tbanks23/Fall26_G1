@@ -10,7 +10,7 @@ Tyjah Banks
 **Participant:** Tyjah Banks only  
 **Product:** Student Task Tracker  
 **Sprint:** 2  
-**ScrumMaster:** Dr. Robert Steven Owor (course role; not a session attendee)
+**ScrumMaster:** Prof. Wanjun Hu (course role; not a session attendee)
 
 ## Purpose
 Plan the initial prototypes, identify intended users, and assign the Sprint 2 work.

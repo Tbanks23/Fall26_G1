@@ -1,7 +1,7 @@
 # Sprint 2: Student Task Tracker Backlog
 
 **Product owner and sole contributor:** Tyjah Banks  
-**ScrumMaster:** Dr. Robert Steven Owor
+**ScrumMaster:** Prof. Wanjun Hu
 
 All tasks are assigned to me. Estimates represent planned effort, not recorded hours. Complete means the listed design artifact has been produced with AI assistance and checked for coverage. The three session records are explicitly simulated. Personal acceptance and submission remain separate tasks.
 
